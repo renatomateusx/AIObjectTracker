@@ -17,4 +17,4 @@ Project made to understand how AI Object tracker works.
 https://github.com/renatomateusx/AIObjectTracker/assets/4579323/32d92f5a-c389-4129-9ae3-31084712461b
 
 #KCF Video Result
-[https://github.com/renatomateusx/AIObjectTracker/assets/4579323/32d92f5a-c389-4129-9ae3-31084712461b](https://github.com/renatomateusx/AIObjectTracker/blob/master/KCFAlgoTrackerCompressed.mp4)https://github.com/renatomateusx/AIObjectTracker/blob/master/KCFAlgoTrackerCompressed.mp4
+https://github.com/renatomateusx/AIObjectTracker/blob/master/KCFAlgoTrackerCompressed.mp4
